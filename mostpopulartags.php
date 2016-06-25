@@ -35,7 +35,7 @@ class Most_Popular_Tags extends WP_Widget {
 function Most_Popular_Tags() {
   $widget_ops = array('classname' => 'widget_most_popular_tags',
                       'description' => 'Your most popular tags');
-  $this->WP_Widget('mostpopulartags', 'Most Popular Tags', $widget_ops);
+  parent::__construct('mostpopulartags', 'Most Popular Tags', $widget_ops);
 }
 
 /**
