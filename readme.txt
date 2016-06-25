@@ -1,5 +1,5 @@
 === Most Popular Tags ===
-Contributors: maxpagels
+Contributors: maxpagels, codex-m
 Tags: widgets, tags, categories, popular, tagcloud
 Requires at least: 2.9
 Tested up to: 4.2.3
